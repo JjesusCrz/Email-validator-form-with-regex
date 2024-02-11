@@ -1,0 +1,16 @@
+ 1 - Problema escolhido?
+
+Resolvendo Problemas com Expressões Regulares
+
+Projetos de software frequentemente se deparam com situações em que desenvolvedores e analistas se reúnem para buscar soluções simples, mas que resolvem um grande problema. Um exemplo bastante comum é a validação de dados: embora seja uma ação direta do desenvolvedor, a tarefa pode ser facilitada quando outros profissionais colaboram. 
+
+Nessa primeira situação, a equipe se deparou com problemas na validação do e-mail, sem considerar uma linguagem específica.
+
+Como poderiam realizar essa validação?
+
+Qual o  metodo escolhido apra analisar e resolver o problema?
+R: 
+PDCA
+
+Info(
+https://mereo.com/blog/ciclo-pdca/)
